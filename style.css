@@ -2,6 +2,15 @@
     --branco-principal: white;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
-    --cor-fundo: #00030C
+    --cor-fundo: #00030C;
 
+}
+body{
+    background-color: var(--cor-fundo);
+    color: var(--branco-principal);
+}
+
+*{
+    margin: 0;
+    padding: 0;
 }

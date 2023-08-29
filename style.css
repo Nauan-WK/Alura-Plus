@@ -52,6 +52,14 @@ body{
 .container_imagem{   
     margin: lem 0 2 em 0;
 }
-
-
-
+.container_caixa{
+    margin: 0 6em;
+    margin-top: 15px;
+}
+.secundario_imagem{
+    width: 80%;
+    align-items: center;
+}
+.secundario{
+    align-items: center;
+}

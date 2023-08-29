@@ -63,3 +63,11 @@ body{
 .secundario{
     align-items: center;
 }
+
+.descrição__título{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+
+}
